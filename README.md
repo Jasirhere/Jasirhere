@@ -17,14 +17,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Computer Science student at PAF-KIET** and a full stack developer who builds everything from scalable REST APIs to AI-powered classroom systems. I've shipped a real-time gig marketplace, integrated computer vision with YOLO, and built production-grade backends with FastAPI and Django.
 
 - 🔵 Currently building scalable **FastAPI** & **Django REST** backends with JWT auth
 - 🤖 Working with **AI & Computer Vision** — OpenCV, YOLO, face recognition
 - 🌐 Shipped **Local Micro-Task Marketplace** — full-stack with real-time chat
-- ⚡ Freelanced as a **Project Manager** — managing clients & digital delivery
 - 📫 Reach me at **jasiralikhan15@gmail.com**
 
 ---
