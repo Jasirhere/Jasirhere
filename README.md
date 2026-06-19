@@ -51,7 +51,10 @@ I'm a **Computer Science student at PAF-KIET** and a full stack developer who bu
 **Frontend**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 **Database**
 
@@ -63,6 +66,8 @@ I'm a **Computer Science student at PAF-KIET** and a full stack developer who bu
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black)
 ![Python ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-6D28D9?style=for-the-badge&logo=semanticweb&logoColor=white)
 
 **Tools & Deployment**
 
@@ -119,10 +124,14 @@ End-to-end flight booking system with user auth, flight search, ticket booking &
 </td>
 <td width="50%">
 
-### More Coming Soon 🚀
-Always building. Check back for new projects at the intersection of AI and full-stack development.
+### [TubeIntel AI](https://github.com/Jasirhere/tubeintel-ai)
+AI-powered YouTube video analysis platform that extracts transcripts, generates structured summaries, creates PDF reports, and supports transcript-grounded Q&A.
 
-![Status](https://img.shields.io/badge/Status-In_Progress-6d28d9?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
