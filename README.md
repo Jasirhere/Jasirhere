@@ -90,7 +90,7 @@ I'm a **Computer Science student at PAF-KIET** and a full stack developer who bu
 <tr>
 <td width="50%">
 
-### Local Micro-Task Marketplace
+### [Local Micro-Task Marketplace](https://github.com/Jasirhere/microtask-marketplace)
 Full-stack gig platform connecting service posters & workers with **real-time chat**, role-based workflows, and complete job lifecycle management.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -101,7 +101,7 @@ Full-stack gig platform connecting service posters & workers with **real-time ch
 </td>
 <td width="50%">
 
-### AI Class Monitor
+### [AI Class Monitor](https://github.com/Jasirhere/ai_class_monitor)
 Intelligent classroom monitoring with **face recognition** for attendance and **YOLO-based** distraction detection — phones, head movement & more.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -114,7 +114,7 @@ Intelligent classroom monitoring with **face recognition** for attendance and **
 <tr>
 <td width="50%">
 
-### SkyBooking — Airline Reservation
+### [SkyBooking — Airline Reservation](https://github.com/Jasirhere/AirlineReservationSystem13-May-2024)
 End-to-end flight booking system with user auth, flight search, ticket booking & reservation management built on **ASP.NET MVC**.
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
