@@ -128,10 +128,10 @@ End-to-end flight booking system with user auth, flight search, ticket booking &
 AI-powered YouTube video analysis platform that extracts transcripts, generates structured summaries, creates PDF reports, and supports transcript-grounded Q&A.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
