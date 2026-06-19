@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%3C+Jasir+Ali+Khan+%2F%3E" alt="Typing SVG" />
 </a>
 
-**`Full Stack Developer` · `CS Student @ PAF-KIET`**
+**`Full Stack Developer` · `CS Student @ KIET`**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasirkhan/)
-[![Gmail](https://img.shields.io/badge/Gmail-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasiralikhan15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasirhere)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasirkhan/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasiralikhan15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasirhere)
 
 </div>
 
@@ -36,7 +36,6 @@ I'm a **Computer Science student at PAF-KIET** and a full stack developer who bu
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,32 +45,38 @@ I'm a **Computer Science student at PAF-KIET** and a full stack developer who bu
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-A78BFA?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-A78BFA?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI, CV & RAG**
+**AI & Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-A78BFA?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-A78BFA?style=for-the-badge&logo=databricks&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-A78BFA?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-6D28D9?style=for-the-badge&logo=semanticweb&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6D28D9?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-7C3AED?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-6D28D9?style=for-the-badge\&logo=semanticweb\&logoColor=white)
 
 **Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -131,19 +136,7 @@ AI-powered YouTube video analysis platform that extracts transcripts, generates 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-A78BFA?style=flat-square&logo=databricks&logoColor=white)
-
 </td>
 </tr>
 </table>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasirhere&show_icons=true&theme=dark&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasirhere&layout=compact&theme=dark&hide_border=true&title_color=A78BFA&text_color=ffffff&bg_color=0D1117)
-
 </div>
