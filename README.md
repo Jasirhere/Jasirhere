@@ -187,13 +187,3 @@ Explore my full portfolio for more details about my projects, technical skills, 
 
 ---
 
-<div align="center">
-
-### Let's Connect
-
-**[Portfolio](https://jasirkhan.netlify.app/)** ·
-**[LinkedIn](https://www.linkedin.com/in/jasirkhan/)** ·
-**[GitHub](https://github.com/Jasirhere)** ·
-**[Email](mailto:jasiralikhan15@gmail.com)**
-
-</div>
