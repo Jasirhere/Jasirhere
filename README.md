@@ -9,6 +9,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://jasirkhan.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasirkhan/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasiralikhan15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasirhere)
@@ -19,11 +20,13 @@
 
 ## About Me
 
-I'm a **Computer Science student at PAF-KIET** and a full stack developer who builds everything from scalable REST APIs to AI-powered classroom systems. I've shipped a real-time gig marketplace, integrated computer vision with YOLO, and built production-grade backends with FastAPI and Django.
+I'm a **Computer Science student at PAF-KIET** and a full stack developer who builds everything from scalable REST APIs to AI-powered systems. I've built full-stack platforms, integrated computer vision with YOLO, and developed AI-powered applications using FastAPI, Next.js, OpenAI APIs, and RAG-based workflows.
 
-- 🔵 Currently building scalable **FastAPI** & **Django REST** backends with JWT auth
+- 🔵 Building scalable **FastAPI** & **Django REST** backends with JWT authentication
 - 🤖 Working with **AI & Computer Vision** — OpenCV, YOLO, face recognition
-- 🌐 Shipped **Local Micro-Task Marketplace** — full-stack with real-time chat
+- 🧠 Building **LLM & RAG-based applications** using embeddings and vector search
+- 🌐 Built a **Local Micro-Task Marketplace** with real-time chat and role-based workflows
+- 🚀 Portfolio: **[jasirkhan.netlify.app](https://jasirkhan.netlify.app/)**
 - 📫 Reach me at **jasiralikhan15@gmail.com**
 
 ---
@@ -36,6 +39,7 @@ I'm a **Computer Science student at PAF-KIET** and a full stack developer who bu
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,7 +59,6 @@ I'm a **Computer Science student at PAF-KIET** and a full stack developer who bu
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -65,19 +68,18 @@ I'm a **Computer Science student at PAF-KIET** and a full stack developer who bu
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge&logo=databricks&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-6D28D9?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-111827?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6D28D9?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-7C3AED?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-6D28D9?style=for-the-badge\&logo=semanticweb\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-6D28D9?style=for-the-badge&logo=semanticweb&logoColor=white)
 
 **Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
@@ -90,23 +92,29 @@ I'm a **Computer Science student at PAF-KIET** and a full stack developer who bu
 ## 🚀 Featured Projects
 
 <div align="center">
+
 <table>
 <tr>
+
 <td width="50%">
 
-### [Local Micro-Task Marketplace](https://github.com/Jasirhere/microtask-marketplace)
-Full-stack gig platform connecting service posters & workers with **real-time chat**, role-based workflows, and complete job lifecycle management.
+### [TubeIntel AI](https://github.com/Jasirhere/tubeintel-ai)
 
+AI-powered YouTube analysis platform that extracts transcripts, generates structured summaries, creates PDF reports, and supports transcript-grounded Q&A using **RAG**.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-A78BFA?style=flat-square&logo=databricks&logoColor=white)
 
 </td>
+
 <td width="50%">
 
 ### [AI Class Monitor](https://github.com/Jasirhere/ai_class_monitor)
-Intelligent classroom monitoring with **face recognition** for attendance and **YOLO-based** distraction detection — phones, head movement & more.
+
+Intelligent classroom monitoring system with **face recognition** for attendance and **YOLO-based** activity and distraction detection.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -114,29 +122,78 @@ Intelligent classroom monitoring with **face recognition** for attendance and **
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%">
 
-### [SkyBooking — Airline Reservation](https://github.com/Jasirhere/AirlineReservationSystem13-May-2024)
-End-to-end flight booking system with user auth, flight search, ticket booking & reservation management built on **ASP.NET MVC**.
+### [Local Micro-Task Marketplace](https://github.com/Jasirhere/microtask-marketplace)
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+Full-stack marketplace connecting service posters and workers through **real-time chat**, role-based workflows, job applications, reviews, and notifications.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
+
 <td width="50%">
 
-### [TubeIntel AI](https://github.com/Jasirhere/tubeintel-ai)
-AI-powered YouTube video analysis platform that extracts transcripts, generates structured summaries, creates PDF reports, and supports transcript-grounded Q&A.
+### [Smart Menu Ordering System](https://github.com/Jasirhere/smart-menu-ordering-system)
+
+Multi-tenant QR-based restaurant ordering platform with digital menus, table management, ordering workflows, and planned AI-powered menu assistance.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-A78BFA?style=flat-square&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%">
+
+### [SkyBooking — Airline Reservation](https://github.com/Jasirhere/AirlineReservationSystem13-May-2024)
+
+Airline reservation web application with user authentication, flight search, ticket booking, reservation management, and passenger workflows.
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 [View My Portfolio](https://jasirkhan.netlify.app/)
+
+Explore my full portfolio for more details about my projects, technical skills, experience, and software engineering work.
+
+[![Portfolio](https://img.shields.io/badge/Open_Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://jasirkhan.netlify.app/)
+
+</td>
+
+</tr>
+
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+**[Portfolio](https://jasirkhan.netlify.app/)** ·
+**[LinkedIn](https://www.linkedin.com/in/jasirkhan/)** ·
+**[GitHub](https://github.com/Jasirhere)** ·
+**[Email](mailto:jasiralikhan15@gmail.com)**
+
 </div>
